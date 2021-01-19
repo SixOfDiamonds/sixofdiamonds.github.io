@@ -1,3 +1,4 @@
 # sixofdiamonds.github.io
-<title>Hello World!</title>
-<p>"This is my test website"</p>
+<title>\WEB TITLE</title>
+<h2>"SUB HEADING HERE"</h2>
+<p>"Main text here"</p>
