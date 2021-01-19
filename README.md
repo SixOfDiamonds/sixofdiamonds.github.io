@@ -22,9 +22,7 @@
       <h3>THIRD HEADING</h3>
       <p>MAIN TEXT HERE</p>
       <img src="https://www.gstatic.com/tv/thumb/persons/283805/283805_v9_ba.jpg"/>
-      <video width="320" height="240" controls>
-        <source src="https://www.youtube.com/watch?v=fHI8X4OXluQ" type="video/mp4">
-      </video>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/fHI8X4OXluQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 </body>
