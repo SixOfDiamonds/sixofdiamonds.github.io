@@ -11,9 +11,9 @@
       <h2>SUB HEADING</h2>
       <ul>
         <li>BULLETLIST1</li>
-        <li>BULLETLIST1</li>
-        <li>BULLETLIST1</li>
-        <li>BULLETLIST1</li>
+        <li>BULLETLIST2</li>
+        <li>BULLETLIST3</li>
+        <li>BULLETLIST4</li>
       </ul>
     </div>
     <div class="main">
