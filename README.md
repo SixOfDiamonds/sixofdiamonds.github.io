@@ -21,8 +21,8 @@
       <h1>ADDITIONAL HEADING</h1>
       <h3>THIRD HEADING</h3>
       <p>MAIN TEXT HERE</p>
-      <img src="https://www.gstatic.com/tv/thumb/persons/283805/283805_v9_ba.jpg" alt="MEG ON FIRE" width="500" height="600">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/fHI8X4OXluQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <img src="https://www.gstatic.com/tv/thumb/persons/283805/283805_v9_ba.jpg" width="200" height="300">
+      <iframe width="280" height="157" src="https://www.youtube.com/embed/fHI8X4OXluQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 </body>
